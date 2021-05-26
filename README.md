@@ -1,3 +1,3 @@
 # Vetores 1
 
-- vetor[]
+- vetor[ ]
